@@ -144,3 +144,9 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,java,maven,intellij
+/.idea/
+.idea/compiler.xml
+.idea/misc.xml
+.idea/vcs.xml
+FacebookAPITutorial.iml
+src/
